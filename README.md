@@ -1,2 +1,2 @@
 # Coursera-IBM-DataScience
-Peer-graded-assignments and Capstone projects
+Peer-graded-assignments and Capstone project
